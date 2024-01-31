@@ -1,0 +1,5 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://pererodovsasha2362000:x02ETYO0pdJl6AIw@cluster0.nvjjk3x.mongodb.net/parfum?retryWrites=true&w=majority",
+    "secretKey": "secret-key"
+}
